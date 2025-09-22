@@ -1,4 +1,4 @@
-# Sistema-de-Gesti-n-de-Tickets-con-Seguimiento-de-SLA-
+# Sistema de Gestión de Tickets con Seguimiento de SLAs
 
 Este proyecto consiste en el desarrollo de una aplicación para la **gestión de tickets de soporte**, con enfoque en el cumplimiento de los **Acuerdos de Nivel de Servicio (SLA)**.  
 Incluye módulos de empleados, asignación de tickets, reportes y un dashboard de seguimiento en Power BI.  
